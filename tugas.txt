@@ -1,0 +1,4 @@
+Tugas penting
+-Membuat halaman index.hyml
+-Membuat halaman from.html
+-Membuat halaman about.html
